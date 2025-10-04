@@ -1,0 +1,1 @@
+Download the File, and run it on your kindle. Your Kindle Has to be Jailbroken to run it and you should create a folder called "disable ads" DON'T PUT THE SCRIPT IN THE FOLDER. put it in your documents folder
