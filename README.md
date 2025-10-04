@@ -1,1 +1,1 @@
-Download the File, and run it on your kindle. Your Kindle Has to be Jailbroken to run it and you should create a folder of the same name as the script, minus the .sh DON'T PUT THE SCRIPT IN THE FOLDER. put it in your documents folder
+Download the File, and run it on your kindle. Your Kindle Has to be Jailbroken to run it and you should create a folder of the same name as the script, minus the .sh DON'T PUT THE SCRIPT IN THE FOLDER. put it in your documents folder to jailbreak your kindle, use the instructions [Here](https://kindlemodding.org/jailbreaking/AdBreak/)
