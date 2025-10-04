@@ -1,6 +1,6 @@
 #!/bin/sh
 # Name: KOReader installer
-# Author: Marek
+# Author: HackerAUG
 # Icon:
 
 OTA_SERVER="https://ota.koreader.rocks/"
