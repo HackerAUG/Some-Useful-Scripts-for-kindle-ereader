@@ -1,6 +1,6 @@
 #!/bin/sh
 # Name: Disable ADs
-# Author: Marek
+# Author: HackerAUG
 # Icon:
 echo "Removing adunits folder"
 rm -rf /var/local/adunits
